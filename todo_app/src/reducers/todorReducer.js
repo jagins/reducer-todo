@@ -1,6 +1,6 @@
 export const todoReducer = (state, action) =>
 {
-    return;
+    return state;
 }
 
 export const initalState = {
