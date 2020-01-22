@@ -1,3 +1,13 @@
 .App {
   text-align: center;
 }
+
+.item{
+  cursor: pointer;
+}
+
+.item-completed
+{
+  color: green;
+  cursor: pointer;
+}
